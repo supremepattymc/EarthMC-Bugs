@@ -9,7 +9,7 @@
  * fishing rods, and my comments in this code will hopefully provide
  * a blueprint into fixing this issue.
  * 
- * Scroll down to line 470 to see where I believe the issue is.
+ * Scroll down to line 474 to see where I believe the issue is.
  * 
  * Also, if the shake chances were significantly decreased, then there
  * is still an issue because the shake chances are displayed incorrectly
